@@ -1,0 +1,7 @@
+<screen>
+	<view>
+		<lv_button x="210" y="12" width="22" height="160" />
+
+		<lv_label text="PROTOS" />
+	</view>
+</screen>
